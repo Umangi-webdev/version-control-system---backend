@@ -16,7 +16,7 @@ RESTful API providing authentication, repository management, commit tracking, br
 
 ## 📖 Overview
 
-The **Version Control System Backend** is a robust server-side application designed to manage repositories, commits, branches, and user authentication. It provides secure REST APIs that enable developers to track project changes, collaborate efficiently, and maintain version history.
+The **Version Control System Backend* is a robust server-side application designed to manage repositories, commits, branches, and user authentication. It provides secure REST APIs that enable developers to track project changes, collaborate efficiently, and maintain version history.
 
 
 ## ✨ Features
